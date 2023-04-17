@@ -6,3 +6,4 @@ fs.readFile('./texto.txt', function(error, data){
     }
     console.log(data.toString());
 })
+

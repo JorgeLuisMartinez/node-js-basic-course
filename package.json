@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "colors": "^1.4.0"
+  },
+  "name": "faztcode-nodejs",
+  "version": "1.0.0",
+  "description": "Un curso de nodejs",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "node http.js"
+  },
+  "author": "jorge",
+  "license": "ISC"
+}
